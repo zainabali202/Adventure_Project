@@ -24,7 +24,7 @@ This project is built for:
 - Adding a meaningful project to GitHub portfolio  
 
 ## 📸 Preview
-![Adventure Project](img/mountain_img.png)
+![Adventure Project](img/mountain_img.avif)
 
 ## 🔮 Future Improvements
 - Add more adventure destinations  
